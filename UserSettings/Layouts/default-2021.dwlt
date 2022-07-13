@@ -14,14 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 8
-    y: 51
-<<<<<<< HEAD
-    width: 958
-    height: 981
-=======
-    height: 1333
->>>>>>> a01d5533c748bc472c32695797795a1345073a29
+    x: 1737
+    y: 216
+    width: 1206
+    height: 701
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 6}
